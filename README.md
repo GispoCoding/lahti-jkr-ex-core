@@ -1,3 +1,5 @@
+*This repository contains the code used in Jätteenkuljetusrekisteri for Lahti. The development continues in another fork to be updated to this README later.*
+
 # Jätteenkuljetusrekisteri Core
 
 This repository contains core parts of Jätteenkuljetusrekisteri including the data model and the importer tool.
